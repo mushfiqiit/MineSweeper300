@@ -21,6 +21,12 @@ public class BoardCell {
       return value;
    }
 
+   
+   /**
+    * Returns the boolean of the field isShown.
+    * 
+    * @return True if the tiles value is revealed, false otherwise.
+    */
    public boolean isShown() {
       return isShown;
    }
