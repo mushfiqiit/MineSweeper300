@@ -5,11 +5,13 @@ I created this after completing CS 300. This is my second version of creating a 
 
 ### To Do:
 - [x] Create all classes
-- [ ] Create JUnit tests
-- [ ] Test BoardTile class
-- [ ] Test GameBoard class
+- [x] Create JUnit tests
+- [x] Test BoardTile class
+- [x] Test GameBoard class
+- [ ] Have RunMineSweeper request inputs on loop
+- [ ] Have win and loose states
 - [ ] Perform integration testing
-- [ ] Code method to print board
+- [ ] Create board UI for user
 
 #### Future Plans
 - A MineSweeper400 version after completeting CS 400. That version will be a JavaFX GUI based application that can hopefully be a standalone download.
