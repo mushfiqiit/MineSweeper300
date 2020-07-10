@@ -14,3 +14,4 @@ I created this after completing CS 300. This is my second version of creating a 
 #### Future Plans
 - A MineSweeper400 version after completeting CS 400. That version will be a JavaFX GUI based application that can hopefully be a standalone download.
 - Making Conway's Game of Life with JavaFX
+- A program that can read the PDF's that have the grade distribution for all of UW-Madison
